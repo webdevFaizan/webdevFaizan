@@ -1,11 +1,9 @@
-<img src="https://cdn.dribbble.com/users/1233499/screenshots/3852878/mobile-development2-2.gif" width = "1000px" id="codingImage" align="right">
-<br>
-<h1 align="center">-------------------------------------</h1>
+<img src="https://cdn.dribbble.com/users/1233499/screenshots/3852878/mobile-development2-2.gif" width = "520px" id="codingImage" align="right">
 
-
+<div style="padding : 20px">
 <h1 align="center">Hi 👋, I'm Faizan Hyder</h1>
 
-<h3 align="center">A passionate Full Stack Developer from India, a life long learner, hard core programmer, INTJ by MBTI, enthusiast in MERN technology and blockchain.</h3>
+<h3 align="center" style="padding : 20px">A passionate Full Stack Developer from India, a life long learner, hard core programmer, INTJ by MBTI, enthusiast in MERN technology and blockchain.</h3>
 
 
 - 🔭 I’m currently working on [Insta News](https://classy-capybara-f78341.netlify.app/)
@@ -17,6 +15,7 @@
 - 💬 Ask me about **Java, React, MongoDB, Express**
 
 - 📫 How to reach me **webdev.Faizan@gmail.com**
+</div>
 <img src="https://jusmarktech.com/public/a/images/pages/web_development.gif" width = "1000px" id="codingImage" align="right">
 
 <h3 align="left">Connect with me:</h3>
