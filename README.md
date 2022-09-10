@@ -1,19 +1,27 @@
-<h1 align="center">Hi Everyone, I'm Faizan Hyder</h1>
-<h3 align="center">A passionate Full Stack Developer from India, a life long learner, passionate programmer, INTJ by MBTI.</h3>
+<img src="https://cdn.dribbble.com/users/1233499/screenshots/3852878/mobile-development2-2.gif" width = "1000px" id="codingImage" align="right">
+<br>
+<h1 align="center">-------------------------------------</h1>
+
+
+<h1 align="center">Hi 👋, I'm Faizan Hyder</h1>
+
+<h3 align="center">A passionate Full Stack Developer from India, a life long learner, hard core programmer, INTJ by MBTI, enthusiast in MERN technology and blockchain.</h3>
+
 
 - 🔭 I’m currently working on [Insta News](https://classy-capybara-f78341.netlify.app/)
 
-- 🌱 Lifelong learner of **React, Express, Mongo**
+- 🌱 I’m currently learning **React**
 
 - 👨‍💻 All of my projects are available at [https://github.com/webdevFaizan](https://github.com/webdevFaizan)
 
 - 💬 Ask me about **Java, React, MongoDB, Express**
 
 - 📫 How to reach me **webdev.Faizan@gmail.com**
+<img src="https://jusmarktech.com/public/a/images/pages/web_development.gif" width = "1000px" id="codingImage" align="right">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/faizan-nasim-hyder-066520139/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="faizan nasim hyder" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/faizan nasim hyder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="faizan nasim hyder" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
