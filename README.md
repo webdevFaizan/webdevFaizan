@@ -1,6 +1,6 @@
-<img src="https://cdn.dribbble.com/users/1233499/screenshots/3852878/mobile-development2-2.gif" width = "520px" id="codingImage" align="right">
+<img src="https://theninehertz.com/wp-content/uploads/2020/06/full-stack-development.gif" width = "1020px" id="codingImage" align="right">
 
-<div style="padding : 20px">
+<h1 align="center">---------------------</h1>
 <h1 align="center">Hi 👋, I'm Faizan Hyder</h1>
 
 <h3 align="center" style="padding : 20px">A passionate Full Stack Developer from India, a life long learner, hard core programmer, INTJ by MBTI, enthusiast in MERN technology and blockchain.</h3>
