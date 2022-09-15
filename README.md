@@ -1,4 +1,4 @@
-<img src="https://theninehertz.com/wp-content/uploads/2020/06/full-stack-development.gif" >
+<img src="https://theninehertz.com/wp-content/uploads/2020/06/full-stack-development.gif" width = "1020px" id="codingImage" align="right" >
 <!-- ![github1](https://user-images.githubusercontent.com/106148740/190481087-c7e3267d-8491-4d67-9438-a82d92d0aaf3.gif) -->
 
 
