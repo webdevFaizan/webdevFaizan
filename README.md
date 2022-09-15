@@ -1,12 +1,14 @@
-<img src="https://theninehertz.com/wp-content/uploads/2020/06/full-stack-development.gif" width = "1020px" id="codingImage" align="right">
+<img src="https://theninehertz.com/wp-content/uploads/2020/06/full-stack-development.gif" >
+<!-- ![github1](https://user-images.githubusercontent.com/106148740/190481087-c7e3267d-8491-4d67-9438-a82d92d0aaf3.gif) -->
+
 
 <h1 align="center">---------------------</h1>
 <h1 align="center">Hi Guys, I'm Faizan</h1>
 
-<h3 align="center" style="padding : 20px">A passionate Full Stack Developer from India, a life long learner, hard core programmer, INTJ+ISTJ in the making (MBTI), enthusiast in MERN technology and blockchain. Aspiration in Aritficial General Intelligence</h3>
+<h3 align="center" style="padding : 20px">I am a passionate Full Stack Developer from India, a life long learner, hard core programmer, INTJ+ISTJ in the making (MBTI), enthusiast in MERN stack and blockchain. Aspiration in Aritficial General Intelligence</h3>
 
 
-- 🔭 I’m currently working on [Shopex](https://stunning-mandazi-299aff.netlify.app/)
+- 🔭 I’m currently working on CloudCo both Frontend and Backend
 
 - 🌱 I’m currently learning - LOL, I am always in a learning mode. Learning 10 things at once.
 
