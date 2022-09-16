@@ -1,4 +1,6 @@
-<img src="https://theninehertz.com/wp-content/uploads/2020/06/full-stack-development.gif" width = "1020px" id="codingImage" align="right" >
+<p align="center">
+<img src="https://theninehertz.com/wp-content/uploads/2020/06/full-stack-development.gif" id="codingImage" align="center" >
+</p>
 <!-- ![github1](https://user-images.githubusercontent.com/106148740/190481087-c7e3267d-8491-4d67-9438-a82d92d0aaf3.gif) -->
 
 
@@ -18,7 +20,10 @@
 
 - 📫 How to reach me **webdev.Faizan@gmail.com, iamdev.faizan@gmail.com**
 </div>
-<img src="https://jusmarktech.com/public/a/images/pages/web_development.gif" width = "1000px" id="codingImage" align="right">
+
+<!-- <img src="https://jusmarktech.com/public/a/images/pages/web_development.gif" width = "1000px" id="codingImage" align="right"> -->
+<img src="https://miro.medium.com/max/1400/1*OxT7UjIwhklKE8d8SFyo7g.gif" width = "1000px" id="codingImage" align="right">
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -57,9 +62,7 @@
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=webdevfaizan&show_icons=true&locale=en&layout=compact" alt="webdevfaizan" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=webdevfaizan&show_icons=true&locale=en" alt="webdevfaizan" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=webdevfaizan&" alt="webdevfaizan" /></p>
-
+<p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api?username=webdevfaizan&show_icons=true&locale=en" alt="webdevfaizan" /></p>
+<p align="left"><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=webdevfaizan&" alt="webdevfaizan" /></p>
+<p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=webdevfaizan&show_icons=true&locale=en&layout=compact" alt="webdevfaizan" /></p>
