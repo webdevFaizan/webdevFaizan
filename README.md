@@ -21,6 +21,8 @@
 - 📫 How to reach me **webdev.Faizan@gmail.com, iamdev.faizan@gmail.com**
 </div>
 
+![](https://komarev.com/ghpvc/?username=webdevFaizan)
+
 <!-- <img src="https://jusmarktech.com/public/a/images/pages/web_development.gif" width = "1000px" id="codingImage" align="right"> -->
 <img src="https://miro.medium.com/max/1400/1*OxT7UjIwhklKE8d8SFyo7g.gif" width = "1000px" id="codingImage" align="right">
 
