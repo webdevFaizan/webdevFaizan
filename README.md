@@ -5,7 +5,7 @@
 
 
 <h1 align="center">---------------------</h1>
-<h1 align="center">Hi Guys, I'm Faizan</h1>
+<h1 align="center">Hi Guys, Faizan here</h1>
 
 <h3 align="center" style="padding : 20px">I am a passionate Full Stack Web Developer using MERN stack, a life long learner, hard core programmer, INTJ+ISTJ in the making (MBTI), enthusiast in MERN stack and blockchain. Aspiration in Artificial General Intelligence and Brain-computer interface.</h3>
 
