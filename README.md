@@ -7,17 +7,17 @@
 <h1 align="center">---------------------</h1>
 <h1 align="center">Hi Guys, Faizan here</h1>
 
-<h3 align="center" style="padding : 20px">I am a passionate Full Stack Web Developer using MERN stack, a life long learner, hard core programmer, INTJ+ISTJ in the making (MBTI), enthusiast in MERN stack and blockchain. Aspiration in Artificial General Intelligence and Brain-computer interface.</h3>
+<h3 align="center" style="padding : 20px">I am a passionate MERN Stack Developer, a life long learner, hard core programmer, INTJ+ISTJ in the making (MBTI), enthusiast in blockchain. Aspiration in Artificial General Intelligence and Brain-computer interface.</h3>
 
-- 💼 Full Stack Web Developer at PwC India.
+- 💼 Front End Developer using React and React Native at PwC India.
 
-- 🔭 I’m currently working on Phoenix-Media-App, front end using ejs view engine, but later this will be converted to react.
+- 🔭 I’m currently working on Uber-Eats, using React Native, Firebase, Google Places API, Yelp API.
 
 - 🌱 I’m currently learning ---------------- LOL, I am always in a learning mode. Learning 10 things at once.
 
 - 👨‍💻 All of my projects are available at [https://github.com/webdevFaizan](https://github.com/webdevFaizan)
 
-- 💬 Ask me about **Java, React, Redux, MongoDB, Express, JavaScript, Firebase, SQL**
+- 💬 Ask me about **React Native, Java, React, Redux, MongoDB, Express, JavaScript, Firebase, SQL**
 
 - 📫 How to reach me **webdev.Faizan@gmail.com, iamdev.faizan@gmail.com**
 </div>
